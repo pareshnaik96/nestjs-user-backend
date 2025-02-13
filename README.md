@@ -90,14 +90,19 @@ You can access the API docs at:
 📌 `http://localhost:3000/api`
 
 ### **Example Screenshots:**
-### **Authentication**
-![register-1](https://github.com/user-attachments/assets/331f7d83-3e99-4e24-8780-e7231f46c750)
-![register-2](https://github.com/user-attachments/assets/eb83bd8a-59ce-49dc-bf5a-30324d4ec817)
+### **Register User**
+![admin_register-1](https://github.com/user-attachments/assets/b94866ef-43af-4009-bccb-4cbb6d29cdca)
+
+![admin_register-2](https://github.com/user-attachments/assets/b74a34be-5d9f-430f-840d-3c9dd401369b)
+
+### **Login User**
 ![login-3](https://github.com/user-attachments/assets/c12fd08d-1b3e-4960-a2c9-169abb8e53d0)
-![login-4](https://github.com/user-attachments/assets/184c9b2f-8aaa-4371-b376-0e20bca772a0)
-![refresh-token-5](https://github.com/user-attachments/assets/9a47c3ac-ea7b-4cc4-a23b-3c4a951f9aaf)
+
+
 ### **User**
 ![get-user-7](https://github.com/user-attachments/assets/956d22e4-2e86-4b46-94dd-d497f5ee2f68)
+
+
 ### **Admin**
 ![get-all-user-8](https://github.com/user-attachments/assets/ba295766-8420-4192-b425-d105875e7bd9)
 
